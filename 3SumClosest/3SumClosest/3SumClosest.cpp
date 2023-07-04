@@ -71,7 +71,7 @@ int threeSumClosest(vector<int>& nums, int target)
 			{
 				closestvalue += nums[Index + 1];
 			}
-			return closestvalue;
+			//return closestvalue;
 		}
 	}
 }
